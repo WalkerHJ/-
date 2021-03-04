@@ -4,3 +4,4 @@
 - 右键菜单react -antd -Dropdown组件
 - 节点拖动组件采用jsmind.draggable
 - 整个UI拖动采用Draggable组件
+- 更多API  https://www.npmjs.com/package/jsmind
